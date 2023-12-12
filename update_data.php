@@ -1,7 +1,7 @@
 <?php
 include 'config.php';
 
-$user_id = 1;  // Replace with the actual user ID
+$user_id = 1;  
 $new_username = "new_username";
 
 $sql = "UPDATE users SET username='$new_username' WHERE id=$user_id";

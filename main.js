@@ -29,3 +29,4 @@ function displayProjects(projects) {
         projectContainer.appendChild(projectDiv);
     });
 }
+
